@@ -1,0 +1,16 @@
+module.exports = [
+    ["fashion-apparel", "Fashion & Apparel", "Shop", "Editorial storefront with collections and product cards.", "photo-1483985988355-763728e1935b", "#292524", "editorial"],
+    ["electronics-gadgets", "Electronics & Gadgets", "Shop", "Modern tech shop with featured devices and categories.", "photo-1498049794561-7780e7231661", "#1d4ed8", "electronics"],
+    ["beauty-cosmetics", "Beauty & Cosmetics", "Shop", "Soft editorial beauty store with routines and product picks.", "photo-1596462502278-27bfdc403348", "#be185d", "beauty"],
+    ["food-grocery", "Food & Grocery", "Shop", "Fresh market catalogue for pantry and weekly essentials.", "photo-1542838132-92c53300491e", "#15803d", "food"],
+    ["restaurant-food-ordering", "Restaurant & Food Ordering", "Food", "Restaurant menu, guest favourites, and ordering layout.", "photo-1517248135467-4c7edcad34c4", "#b45309", "restaurant"],
+    ["hotel-travel-booking", "Hotel & Travel Booking", "Travel", "Destination-led stays and travel booking presentation.", "photo-1571896349842-33c89424de2d", "#0f766e", "travel"],
+    ["portfolio-personal-brand", "Portfolio & Personal Brand", "Creative", "Personal profile, selected work, and collaboration sections.", "photo-1497366754035-f200968a6e72", "#57534e", "portfolio"],
+    ["saas-startup", "SaaS & Startup", "Business", "Product-led landing page with features and pricing cards.", "photo-1460925895917-afdab827c52f", "#4f46e5", "saas"],
+    ["agency-business", "Agency & Business", "Business", "Brand story, service offerings, and client-focused sections.", "photo-1521737711867-e3b97375f902", "#c2410c", "agency"],
+    ["blog-magazine", "Blog & Magazine", "Editorial", "Editorial homepage with featured stories and categories.", "photo-1499750310107-5fef28a66643", "#292524", "editorial"],
+    ["education-courses", "Education & Courses", "Learning", "Course catalogue and clear learning-path cards.", "photo-1501504905252-473c47e087f8", "#0369a1", "education"],
+    ["real-estate", "Real Estate", "Property", "Property listings with location and price highlights.", "photo-1600585154340-be6161a56a0c", "#0f766e", "realestate"],
+    ["fitness-gym", "Fitness & Gym", "Wellness", "Training programmes and membership-led landing page.", "photo-1534438327276-14e5300c3a48", "#dc2626", "fitness"],
+    ["blank-website", "Blank Website", "Starter", "A clean starting page with no sample products or sections.", "", "#475569", "blank"],
+];
